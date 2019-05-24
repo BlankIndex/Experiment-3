@@ -38,11 +38,6 @@ int main() {
 			leastlist = i;
 		}	
 		smallest = list[leastlist];
-
-
-
-
-
 	}
 
 	sumlist = 0;
@@ -60,10 +55,6 @@ int main() {
 	cout << "the largest number in the input is " << largest<<endl;
 	cout << "the smallest numberin the input is " << smallest << endl;
 	cout << "the average of  the input is " << average << endl;
-
-
-
-
 
 
 
